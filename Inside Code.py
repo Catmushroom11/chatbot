@@ -40,6 +40,7 @@ time.sleep(2)
 #feelings conversation
 feeling = input('How are you feeling today?: ')
 print('Why are you feeling', feeling, 'now')
+time.sleep(1)
 reason = input('Please tell me: ')
 print('I understand. Thanks for sharing')
 #goodbye
