@@ -1,4 +1,5 @@
 #chatbot introduction
+import time
 print('Hello. I am Zyxo 64. I am a chatbot.')
 time.sleep(2)
 print('I like animals and I love to talk about food.')
